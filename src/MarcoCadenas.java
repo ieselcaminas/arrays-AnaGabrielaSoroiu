@@ -29,7 +29,6 @@ public class MarcoCadenas {
         Scanner miScanner;
         miScanner = new Scanner(System.in);
 
-
         for (int i = 0; i < cadenas.length; i++) {
             cadenas[i] = miScanner.next();
         }
